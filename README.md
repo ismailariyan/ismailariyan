@@ -1,4 +1,4 @@
-<img src="https://github.com/ismailariyan/ismailariyan/blob/main/github_readmedone.jpg"/>
+<img src="https://github.com/ismailariyan/ismailariyan/blob/main/github_readme.jpg"/>
 
 
 # 👋 Hey there! I'm Ismail Ariyan
