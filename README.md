@@ -2,7 +2,7 @@
 
 
 # 👋 Hey there! I'm Ismail Ariyan
-Tech Enthusiast | ICE student | Flutter App developer | Problem Solver
+Tech Enthusiast | ICE student | Backend Developer | Problem Solver
 
 
 ## 🌐 Socials:
